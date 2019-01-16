@@ -1,0 +1,21 @@
+
+{
+    "name": "GameDev.tv Dark Theme",
+    "about_url": "https://github.com/GameDevTV/DiscourseDarkTheme/blob/master/readme.md",
+    "license_url": "https://github.com/GameDevTV/DiscourseDarkTheme/blob/master/licence.md",
+    "component": true,
+    "color_schemes": {
+        "GameDev Dark": {
+            "primary": "EEEEEE",
+            "secondary": "1f2225",
+            "tertiary": "3181D2",
+            "quaternary": "F3C915",
+            "header_background": "24a729",
+            "header_primary": "FFFFFF",
+            "highlight": "FFFF4D",
+            "danger": "E45735",
+            "success": "009900",
+            "love": "F14666"
+          }
+    }
+}

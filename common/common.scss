@@ -1,0 +1,30 @@
+.modal.history-modal span.edit-reason {
+    color: black;
+}
+
+/* line 81, ../scss/style.scss */
+.uvBody {
+  background: #fff;
+}
+
+.btn:hover {
+    color: #3181d2;
+}
+
+.posts-wrapper, .topic-list, .category-list {
+    background: rgba(31,34,37,0.9);
+}
+
+html {
+    background-color: #282c2d;
+}
+
+#banner {
+    color: #eee;
+}
+
+.category-list .category-logo.aspect-image {
+    max-width: 200px;
+}
+
+// TODO use inheritence
