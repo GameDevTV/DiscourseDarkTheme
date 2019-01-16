@@ -1,3 +1,3 @@
-# GameDev.tv Customisation Monolith
+# GameDev.tv Community Site - Dark Theme
 
-All component (non-theme) customisations to https://community.gamedev.tv
+https://community.gamedev.tv

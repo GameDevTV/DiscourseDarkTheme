@@ -3,6 +3,9 @@
     "name": "GameDev.tv Dark Theme",
     "about_url": "https://github.com/GameDevTV/DiscourseDarkTheme/blob/master/readme.md",
     "license_url": "https://github.com/GameDevTV/DiscourseDarkTheme/blob/master/licence.md",
+    "assets": {
+        "leaf-120": "assets/LeafGreen_120x120"
+    },
     "color_schemes": {
         "GameDev Dark": {
             "primary": "EEEEEE",
