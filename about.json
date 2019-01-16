@@ -3,7 +3,6 @@
     "name": "GameDev.tv Dark Theme",
     "about_url": "https://github.com/GameDevTV/DiscourseDarkTheme/blob/master/readme.md",
     "license_url": "https://github.com/GameDevTV/DiscourseDarkTheme/blob/master/licence.md",
-    "component": true,
     "color_schemes": {
         "GameDev Dark": {
             "primary": "EEEEEE",
